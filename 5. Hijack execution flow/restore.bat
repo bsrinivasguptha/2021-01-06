@@ -1,0 +1,1 @@
+reg add HKCR\txtfile\shell\open\command /t REG_EXPAND_SZ /d "%%SystemRoot%%\system32\NOTEPAD.EXE %%1" /f
